@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1732695830,
+	"version": 1733216362,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -26,6 +26,8 @@
 		"media/crash.ogg",
 		"media/puppy.m4a",
 		"media/puppy.ogg",
+		"media/game over.m4a",
+		"media/game over.ogg",
 		"media/elon rocket game music.m4a",
 		"media/elon rocket game music.ogg",
 		"icon-16.png",
