@@ -1,11 +1,11 @@
 ﻿{
-	"version": 1733216362,
+	"version": 1737699316,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
 		"jquery-3.4.1.min.js",
 		"offlineClient.js",
-		"images/sprite-sheet0.png",
+		"images/bg1-sheet0.png",
 		"images/sprite2-sheet0.png",
 		"images/sprite3-sheet0.png",
 		"images/sprite4-sheet0.png",
@@ -17,7 +17,6 @@
 		"images/particles2.png",
 		"images/particles3.png",
 		"images/sprite7-sheet0.png",
-		"images/sprite10-sheet0.png",
 		"images/sprite11-sheet0.png",
 		"images/particles4.png",
 		"media/collect-points-190037.m4a",
